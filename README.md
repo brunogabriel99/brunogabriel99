@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bruno Gabriel
 
-- 🌱 I’m currently learning : Java / Soringboot
+- 🌱 I’m currently learning : Java / Springboot
 
 <div align="center">
   <a href="https://github.com/brunogabriel99">
