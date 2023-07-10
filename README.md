@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bruno Gabriel
 
-- 🌱 I’m a java junior developer
+- 🌱 Java developer
 
 <div align="center">
   <a href="https://github.com/brunogabriel99">
