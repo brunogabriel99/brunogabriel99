@@ -1,6 +1,6 @@
-## Olá! Eu sou o Bruno Gabriel
+## Olá! Eu sou o Bruno Chagas
 
-- 🌱 Java developer
+- 🌱 Fullstack Developer (Java / Angular)
 
 <div align="center">
   <a href="https://github.com/brunogabriel99">
